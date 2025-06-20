@@ -28,4 +28,4 @@ Charts include:
 6) Genre vs Country Heatmap
 7) Number of Titles Per Country in a World Map
 
-### 8) Insights are mentioned in each section in the analysis. 
+### Insights are mentioned in each section in the analysis. 
