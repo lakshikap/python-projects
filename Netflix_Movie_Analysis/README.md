@@ -3,7 +3,7 @@ We perform an Exploratory Data Analysis on the Netflix movie dataset to answer t
 1) Business Problem 1: Netflix, the streaming company wants to understand its existing content catalog. What are the dominant content types (Movie vs TV Show), and how are they distributed by year and genre?
 2) Business Problem 2: Netflix wants to understand content diversity and which countries dominate which genres. Where are there gaps to expand?
 
-# The Analysis Solution:
+## The Analysis Solution:
 1) We obtain a dataset from Kaggle on Netflix Movies and TV Shows.
 2) We explore the data to identify any issues and clean the data. As there were cells with multiple values, we normalize two columns relevant for the analysis. 
 3) Then we conduct the analysis using data analysis techniques to solve the business problem.
