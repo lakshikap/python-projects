@@ -28,10 +28,10 @@ Charts include:
 6) Genre vs Country Heatmap
 7) Number of Titles Per Country in a World Map
 
-### Insights are mentioned in each section in the analysis. 
+#### Insights are mentioned in each section in the analysis. 
 
 ## Suggestions for Netflix as a Business
-- Insight: The United States dominates content production, followed by India and the UK.
+- ***Insight:*** The United States dominates content production, followed by India and the UK.
 - Recommendation: Invest in regional content production in emerging markets like Southeast Asia, Africa, Eastern Europe.
 - Insight: From 2014 to 2019, content added yearly grew significantly—almost tripled by 2017.
 - Recommendation: Maintain consistent but curated growth in content to ensure quality is not sacrificed for volume. To make a clear decision, it would be good to identify if there was a growth in revenue with content growth.
