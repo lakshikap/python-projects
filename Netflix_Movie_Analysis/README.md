@@ -3,14 +3,16 @@ We perform an Exploratory Data Analysis on the Netflix movie dataset to answer t
 1) Business Problem 1: Netflix, the streaming company wants to understand its existing content catalog. What are the dominant content types (Movie vs TV Show), and how are they distributed by year and genre?
 2) Business Problem 2: Netflix wants to understand content diversity and which countries dominate which genres. Where are there gaps to expand?
 
-In order to arrive at the solution, we explore the data to identify any issues in the data which may hinder the analysis. 
-Then we clean the data using 
+# The Analysis Solution:
+1) We obtain a dataset from Kaggle on Netflix Movies and TV Shows.
+2) We explore the data to identify any issues and clean the data. As there were cells with multiple values, we normalize two columns relevant for the analysis. 
+3) Then we conduct the analysis using data analysis techniques to solve the business problem.
+4) We write insights from each step in the analysis and propose recommendations.
 
 ## Prerequisites:
 1) Install packages, pandas, numpy, matplotlib, and seaborn.
 2) For the world map, we install pycountry and plotly.express.
-3) We recommend Jupyter Notebook if you wish to run the code, it can be downloaded directly.
-4) The data is explored, cleaned and required columns are normalized prior to the analysis.
+3) We recommend Jupyter Notebook if you wish to run the code, the file can be downloaded directly (Netflix_Analysis_EDA.ipynb).
 
 ## Input:
 We use the netflix_titles_Nov2019.csv file from Kaggle as the basis for the analysis.
