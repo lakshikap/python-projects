@@ -31,11 +31,11 @@ Charts include:
 #### Insights are mentioned in each section in the analysis. 
 
 ## Suggestions for Netflix as a Business
-- ***Insight:*** The United States dominates content production, followed by India and the UK.
-- Recommendation: Invest in regional content production in emerging markets like Southeast Asia, Africa, Eastern Europe.
-- Insight: From 2014 to 2019, content added yearly grew significantly—almost tripled by 2017.
-- Recommendation: Maintain consistent but curated growth in content to ensure quality is not sacrificed for volume. To make a clear decision, it would be good to identify if there was a growth in revenue with content growth.
-- Insight: Most popular genres are International Movies, Dramas, Comedies, and International TV Shows.
-- Recommendation: Launch genre-based user journeys (e.g., curated playlists, interactive choices) to increase engagement and time spent on platform.
-- Insight: Some countries and genres have minimal representation.
-Recommendation: Identify white-spaces in the genre-country matrix where Netflix has little presence and fill these gaps with short-form pilots or other content approaches.
+- **Insight:** The United States dominates content production, followed by India and the UK.
+- **Recommendation:** Invest in regional content production in emerging markets like Southeast Asia, Africa, Eastern Europe.
+- **Insight:** From 2014 to 2019, content added yearly grew significantly—almost tripled by 2017.
+- **Recommendation:** Maintain consistent but curated growth in content to ensure quality is not sacrificed for volume. To make a clear decision, it would be good to identify if there was a growth in revenue with content growth.
+- **Insight:** Most popular genres are International Movies, Dramas, Comedies, and International TV Shows.
+- **Recommendation:** Launch genre-based user journeys (e.g., curated playlists, interactive choices) to increase engagement and time spent on platform.
+- **Insight:** Some countries and genres have minimal representation.
+- **Recommendation:** Identify white-spaces in the genre-country matrix where Netflix has little presence and fill these gaps with short-form pilots or other content approaches.
