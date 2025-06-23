@@ -18,6 +18,7 @@ I use Python for the data analysis.
 I produce several charts for analysis and draw insights. Charts include: 
 1) Dominant Content Types
 <img width="556" alt="Screenshot 2025-06-23 at 7 44 47 PM" src="https://github.com/user-attachments/assets/e18ed483-d29a-4f4d-9a2d-8276b932fc6c" />
+
 ***Insights: Overall, Netflix has more Movies than TV Shows. The number of Movies is a little more than twice the number of TV Shows.***
 
 3) Content Added to Netflix by Year
@@ -49,8 +50,6 @@ I produce several charts for analysis and draw insights. Charts include:
 <img width="768" alt="Screenshot 2025-06-23 at 7 48 23 PM" src="https://github.com/user-attachments/assets/b839b757-d38e-45e8-bfb4-9fa2ebdf39f3" />
 
 ***Insights: The map allows you to hover over to identify content distribution by country. The USA domainates total content, and India comes in second.***
-
-#### Insights are mentioned in each section in the analysis. 
 
 ## Suggestions for Netflix as a Business: Where are there gaps to expand?
 1) **Insight:** The United States dominates content production, followed by India and the UK.
