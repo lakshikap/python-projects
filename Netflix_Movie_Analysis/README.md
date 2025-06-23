@@ -17,7 +17,7 @@ I use Python for the data analysis.
 ## Output: 
 I produce several charts for analysis and draw insights. Charts include: 
 1) Dominant Content Types
-   <img width="556" alt="Screenshot 2025-06-23 at 7 44 47 PM" src="https://github.com/user-attachments/assets/e18ed483-d29a-4f4d-9a2d-8276b932fc6c" />
+<img width="556" alt="Screenshot 2025-06-23 at 7 44 47 PM" src="https://github.com/user-attachments/assets/e18ed483-d29a-4f4d-9a2d-8276b932fc6c" />
 ***Insights: Overall, Netflix has more Movies than TV Shows. The number of Movies is a little more than twice the number of TV Shows.***
 
 3) Content Added to Netflix by Year
