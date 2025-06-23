@@ -1,34 +1,41 @@
 # Netflix and the Problem Context:
-We perform an Exploratory Data Analysis on the Netflix movie dataset to answer two business problems for the business, on content and growth.
+I perform an Exploratory Data Analysis on the Netflix movie dataset to answer two business problems for the business, on content and growth.
 1) Business Problem 1: Netflix, the streaming company wants to understand its existing content catalog. What are the dominant content types (Movie vs TV Show), and how are they distributed by year and genre?
 2) Business Problem 2: Netflix wants to understand content diversity and which countries dominate which genres. Where are there gaps to expand?
 
 ## The Analysis Solution:
-1) We obtain a dataset from Kaggle on Netflix Movies and TV Shows.
-2) We explore the data to identify any issues and clean the data. As there were cells with multiple values, we normalize two columns relevant for the analysis. 
-3) Then we conduct the analysis using data analysis techniques to solve the business problem.
-4) We write insights from each step in the analysis and propose recommendations.
-
-## Prerequisites:
-1) Install packages, pandas, numpy, matplotlib, and seaborn.
-2) For the world map, we install pycountry and plotly.express.
-3) We recommend Jupyter Notebook if you wish to run the code, the file can be downloaded directly (Netflix_Analysis_EDA.ipynb).
+1) I obtain a dataset from Kaggle on Netflix Movies and TV Shows.
+2) I explore the data to identify any issues and clean the data. As there were cells with multiple values, I normalize two columns relevant for the analysis. 
+3) Then I conduct the analysis using data analysis techniques to solve the business problem.
+4) I write insights from each step in the analysis and propose recommendations.
 
 ## Input:
-We use the netflix_titles_Nov2019.csv file from Kaggle as the basis for the analysis.
-We form our own business case as mentioned in the problem context above.
-We use Python for the analysis.
+I use the netflix_titles_Nov2019.csv file from Kaggle as the basis for the analysis.
+I form my own business case as mentioned in the problem context above.
+I use Python for the analysis.
 
 ## Output: 
-We produce several charts for analysis and draw insights.
-Charts include: 
+I produce several charts for analysis and draw insights. Charts include: 
 1) Dominant Content Types
+   <img width="556" alt="Screenshot 2025-06-23 at 7 44 47 PM" src="https://github.com/user-attachments/assets/e18ed483-d29a-4f4d-9a2d-8276b932fc6c" />
+
 2) Content Added to Netflix by Year
+   <img width="864" alt="Screenshot 2025-06-23 at 7 44 54 PM" src="https://github.com/user-attachments/assets/63ccee21-17ed-4378-a797-844ff92a6feb" />
+
 3) Top 10 Genres
+<img width="872" alt="Screenshot 2025-06-23 at 7 45 02 PM" src="https://github.com/user-attachments/assets/dbd12771-c6ee-4eea-96e7-efd0e062d3f7" />
+  
 4) Trends by Year
+<img width="858" alt="Screenshot 2025-06-23 at 7 45 11 PM" src="https://github.com/user-attachments/assets/addb4d49-3748-4045-9670-1faa85f8f97c" />
+
 5) Top Content Producing Countries
+<img width="864" alt="Screenshot 2025-06-23 at 7 45 17 PM" src="https://github.com/user-attachments/assets/9e3c9aa5-d823-47c2-9614-2c41b64de424" />
+
 6) Genre vs Country Heatmap
+  <img width="869" alt="Screenshot 2025-06-23 at 7 45 26 PM" src="https://github.com/user-attachments/assets/1f080f66-666e-4e9b-b29c-9ae83f7fb221" />
+
 7) Number of Titles Per Country in a World Map
+<img width="768" alt="Screenshot 2025-06-23 at 7 48 23 PM" src="https://github.com/user-attachments/assets/b839b757-d38e-45e8-bfb4-9fa2ebdf39f3" />
 
 #### Insights are mentioned in each section in the analysis. 
 
