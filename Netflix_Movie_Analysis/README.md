@@ -3,10 +3,13 @@ I perform an Exploratory Data Analysis on the Netflix movie dataset to answer tw
 1) Business Problem 1: Netflix, the streaming company wants to understand its existing content catalog. What are the dominant content types (Movie vs TV Show), and how are they distributed by year and genre?
 2) Business Problem 2: Netflix wants to understand content diversity and which countries dominate which genres. Where are there gaps to expand?
 
+## Why?
+By analyzing Netflix’s content catalog across type, year, genre, and country, the company can optimize its investment strategy, identify dominant formats like movies vs. TV shows, and track growth trends over time. Simultaneously, understanding which countries lead specific genres and where content gaps exist enables Netflix to expand its global reach, tailor region-specific content, and partner strategically. Together, these insights drive smarter content curation, boost user engagement, reduce content waste, and unlock new revenue opportunities.
+
 ## The Approach and Solution:
-1) I obtain a dataset from Kaggle on Netflix Movies and TV Shows.
-2) I explore the data to identify any issues and clean the data. As there were cells with multiple values, I normalize two columns relevant for the analysis. 
-3) Then I conduct the analysis using data analysis techniques to solve the business problem. This analysis primarily uses pandas, numpy, matplotlib, plotly and seaborn.
+1) I obtain a dataset from Kaggle on Netflix Movies and TV Shows. This includes columns: show_id, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description and type.
+2) Based on the problem context, I explore the data to identify any issues and clean the data. As there were cells with multiple values, I normalize two columns relevant for the analysis. 
+3) Then I conduct the analysis using data analysis techniques to solve the business problem. This analysis primarily uses pandas, numpy, matplotlib, plotly, seaborn and pycountry libraries.
 4) I write insights from each step in the analysis and propose recommendations.
 
 ## Input:
@@ -53,10 +56,10 @@ I produce several charts for analysis and draw insights. Charts include:
 
 ## Suggestions for Netflix as a Business: Where are there gaps to expand?
 1) **Insight:** The United States dominates content production, followed by India and the UK.
-- **Recommendation:** Invest in regional content production in emerging markets like Southeast Asia, Africa, Eastern Europe.
+- **Recommendation:** Invest in regional content production in emerging markets like Southeast Asia, Africa, Eastern Europe. Moreover, double down on content in the USA, however this requires further investigation of viewership in these countries. 
 2) **Insight:** From 2014 to 2019, content added yearly grew significantly—almost tripled by 2017.
 - **Recommendation:** Maintain consistent but curated growth in content to ensure quality is not sacrificed for volume. To make a clear decision, it would be good to identify if there was a growth in revenue with content growth.
 3) **Insight:** Most popular genres are International Movies, Dramas, Comedies, and International TV Shows.
 - **Recommendation:** Launch genre-based user journeys (e.g., curated playlists, interactive choices) to increase engagement and time spent on platform.
 4) **Insight:** Some countries and genres have minimal representation.
-- **Recommendation:** Identify white-spaces in the genre-country matrix where Netflix has little presence and fill these gaps with short-form pilots or other content approaches.
+- **Recommendation:** Identify white-spaces in the genre-country matrix where Netflix has little presence and fill these gaps with short-form pilots or other content approaches, in order to test those markets.
