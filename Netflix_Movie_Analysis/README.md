@@ -4,7 +4,7 @@ I perform an Exploratory Data Analysis on the Netflix movie dataset to answer tw
 2) Business Problem 2: Netflix wants to understand content diversity and which countries dominate which genres. Where are there gaps to expand?
 
 ## Why?
-By analyzing Netflix’s content catalog across type, year, genre, and country, the company can optimize its investment strategy, identify dominant formats like movies vs. TV shows, and track growth trends over time. Simultaneously, understanding which countries lead specific genres and where content gaps exist enables Netflix to expand its global reach, tailor region-specific content, and partner strategically. Together, these insights drive smarter content curation, boost user engagement, reduce content waste, and unlock new revenue opportunities.
+By analyzing Netflix’s content catalog across type, year, genre, and country, the company can optimize its investment strategy, identify dominant formats like movies vs. TV shows, and track growth trends over time. Simultaneously, understanding which countries lead specific genres and where content gaps exist enables Netflix to expand its global reach, tailor region-specific content, and partner strategically. Together, these insights drive smarter content curation, boost user engagement, and unlock new revenue opportunities.
 
 ## The Approach and Solution:
 1) I obtain a dataset from Kaggle on Netflix Movies and TV Shows. This includes columns: show_id, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description and type.
