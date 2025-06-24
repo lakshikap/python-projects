@@ -54,7 +54,7 @@ I produce several charts for analysis and draw insights. Charts include:
 
 ***Insights: The map allows you to hover over to identify content distribution by country. The USA domainates total content, and India comes in second.***
 
-## Suggestions for Netflix as a Business: Where are there gaps to expand?
+## Recommendations for Netflix as a Business: Where are there gaps to expand?
 1) **Insight:** The United States dominates content production, followed by India and the UK.
 - **Recommendation:** Invest in regional content production in emerging markets like Southeast Asia, Africa, Eastern Europe. Moreover, double down on content in the USA, however this requires further investigation of viewership in these countries. 
 2) **Insight:** From 2014 to 2019, content added yearly grew significantly—almost tripled by 2017.
