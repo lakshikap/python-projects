@@ -139,13 +139,14 @@ Refer to this guide to understand more - https://www.mayoclinic.org/healthy-life
 **Insight:** For pool swimming, at 167 heart rate, 91 calories were burned which is not an effective rate. The events recorded are likely short duration swims or inconsistent data.
 **Recommendation:** Average heart rate isn’t the only driver of calorie burn in swimming. Unlike running, where heart rate and calorie burn align closely, swimming adds complexity.
 
+6) Highest Calorie Efficiency
 
-**Insight:** 
-**Recommendation:** 
+<img width="382" alt="image" src="https://github.com/user-attachments/assets/fa3f995c-8e10-4fa4-9c63-05f7c3c91d89" />
 
-**Insight:** 
-**Recommendation:** 
+**Insight:** Overall, treadmill running delivers the highest calorie efficiency, burning approximately 536 calories per kilometer. This suggests that even short runs of high-intensity treadmill workouts can yield substantial energy expenditure, making it ideal for time-constrained workouts focused on fat loss.
+**Recommendation:** Intriduce more treadmill running in your workouts. As you travel often, this is the best recommended workout for your routine, with the maximum calorie  burn rate against time and distance.
+
 ## Limitations:
-1) The dataset for 5 years had only 700 rows and was too small for making accurate interpretations / recommendations for years with low data points.
+1) The dataset for 5 years had only 700 rows and was too small for making accurate interpretations / recommendations for some activities/ years with fewer data points.
 2) There were a large number of rows with empty values.
 3) There was a manually added 'Year' column at the end which was redundant for the analysis, as the real data was adequate.
