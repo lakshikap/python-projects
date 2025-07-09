@@ -22,9 +22,18 @@ The current fitness watch data does not provide key insights, over a period. By 
 
 I use the fitness watch dataset provided by the client. We do not share it publicly due to privacy concerns. 
 
-## Output: 
+## Output: Insights and Recommendations 
 
-I created several charts for analysis and drew insights and made recommendations. 
+I created several charts for analysis, analyzed insights and made recommendations. 
 
-1) Dominant Content Types
+1) Activity distribution over time.
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/798ce0bc-a449-429a-a86c-e82a4106f147" />
 
+
+
+3) 
+
+## Limitations:
+1) The dataset for 5 years had only 700 rows and was too small for making accurate interpretations / recommendations for years with low data points.
+2) There were a large number of rows with empty values.
+3) There was a manually added 'Year' column at the end which was redundant for the analysis, as the real data was adequate.
