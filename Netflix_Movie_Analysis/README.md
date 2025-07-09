@@ -17,7 +17,7 @@ I use the netflix_titles_Nov2019.csv file from Kaggle as the basis for the data 
 I form my own business case as mentioned in the problem context above.
 I use Python for the data analysis.
 
-## Output: 
+## Output: Insights and Recommendations
 I produce several charts for analysis and draw insights. Charts include: 
 1) Dominant Content Types
 <img width="556" alt="Screenshot 2025-06-23 at 7 44 47 PM" src="https://github.com/user-attachments/assets/e18ed483-d29a-4f4d-9a2d-8276b932fc6c" />
