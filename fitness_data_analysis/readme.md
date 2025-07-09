@@ -33,7 +33,6 @@ I created several charts for analysis, analyzed insights and made recommendation
 **Insight:** Your plot of activity entries per year shows noticeable variation over the years. Noticeably, 2020 and 2021 had significantly higher activity logging.
 
 **Recommendation:** Identify what led to increased consistency during peak years (e.g., structured plan, goal setting). Use that pattern to replicate consistent activity this year.
-![image](https://github.com/user-attachments/assets/ae98c695-cd65-4550-b8ac-83c57f2ae543)
 
 2) Most common activities
 
@@ -72,7 +71,7 @@ I created heatmaps to identify the relationship among distance, calories, averag
 **Recommendation:** Encourage longer walks at brisk pace for consistent calorie burn. 
 
   iii) Multisport
-Not enough data to suggest a recommendation. Consider logging more detailed sessions or separating sports by type for better / useful insights. ![image](https://github.com/user-attachments/assets/db0e5d37-fc35-4a7a-8063-ee4ab942e480)
+Not enough data to suggest a recommendation. Consider logging more detailed sessions or separating sports by type for better / useful insights. 
 
   iv) Strength Training
 
